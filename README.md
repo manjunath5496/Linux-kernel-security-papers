@@ -39,4 +39,4 @@ Bypassing SMAP and Kernel ASLR</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linux-kernel-security-papers/blob/master/lse(18).pdf" style="text-decoration:none;">Capsicum: practical capabilities for UNIX</a></li> 
 
   
-<li>
+</ul>
